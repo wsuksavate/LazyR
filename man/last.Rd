@@ -7,14 +7,14 @@
 last(v)
 }
 \arguments{
-\item{v}{input a vector.}
+\item{v}{A vector.}
 }
 \description{
-This function allows you to call the last element of a vector.
+This function allows you to extract the las element of a vector.
 }
 \examples{
-x<-c(2,5,74,33,50)
-last(x)
+y<-rnorm(10,0,1)
+last(y)
 }
 \keyword{last}
 
