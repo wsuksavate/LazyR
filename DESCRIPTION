@@ -1,7 +1,7 @@
 Package: LazyR
 Title: More convenient (and lazy) way to use R.
 Version: 0.0.0.9000
-Authors@R: Warong Suksavate
+Authors: Warong Suksavate
 Description: Do everything that made coding in R easier and faster.
 Depends: R (>= 3.1.2)
 License: GPL-2
